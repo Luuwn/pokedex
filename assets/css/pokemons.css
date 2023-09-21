@@ -62,7 +62,6 @@
     margin: .25rem 0;
     font-size: .625rem;
     border-radius: 1rem;
-    /* background-color: #3aa78d; */
     filter: brightness(1.1);
     text-align: center;
 }
@@ -70,7 +69,7 @@
 .pokemon .detail img{
     max-height: 100%;
     height: 70px;
-    /* align-self: flex-end; */
+    align-self: flex-end;
 }
 
 .pagination{
